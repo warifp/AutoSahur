@@ -21,3 +21,6 @@ Set Cron Job in your hosting or virtual private server (vps).
 Example : 0 0 * * * /home/AutoSahur/run.php
 
 Note : the script isn't finished, I'll update it later.
+
+# List
+Add number in list.txt
